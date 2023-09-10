@@ -1,0 +1,51 @@
+button{
+    border-radius: 100px;
+    display: flex;
+    margin-left: 600px;
+    margin-top: 140px;
+    width: 250px;
+    height: 250px;
+    border-radius: 360px;
+    align-items: center;
+    
+}
+h2{
+    text-align: right;
+    display: inline;
+}
+a{
+    font-size: 30px;
+}
+.container {
+    display: flex;
+}
+
+
+
+.g button {
+    margin-left: 6px;
+    width: 150px;
+    height: 50px;
+    margin-top: 120px;
+    border-radius: 0px;
+    display: flex;
+    
+}
+
+.b button {
+    width: 150px;
+    height: 50px;
+    margin-top: 120px;
+    border-radius: 0px;
+    display: flex;
+    margin-left: 490px;
+
+}
+.a button {
+    width: 250px;
+    height: 50px;
+    margin-top: 120px;
+    border-radius: 0px;
+    display: flex;
+    margin-left: 350px;
+}
